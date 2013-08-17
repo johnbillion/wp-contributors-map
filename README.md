@@ -18,6 +18,6 @@ Start the server:
 
 `node server.js`
 
-Hit up `http://127.0.0.1:1337/`. Give it a while because it's gotta do > 400 HTTP requests. I removed the console.log calls, but I should have left them in really. Oops.
+Hit up `http://127.0.0.1:1337/`. Give it a while because it's gotta do ~450 HTTP requests.
 
 Observe your nicely formatted GeoJSON file.
