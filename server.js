@@ -7,6 +7,9 @@ var server = function( port, host ) {
 	this.async   = require( 'async' );
 	this.cheerio = require( 'cheerio' );
 	this.geojson = require( 'geojson' );
+	this.mathjs  = require( 'mathjs' );
+
+	math = this.mathjs();
 
 	this.http.createServer( this.request.bind( this ) ).listen( port, host );
 
@@ -148,8 +151,8 @@ server.prototype.processGeocode = function( content, contributor, callback ) {
 	if ( 'OK' == geo.status ) {
 		var location = geo.results[0];
 		if ( location.geometry && location.geometry.location ) {
-			contributor.lat = location.geometry.location.lat;
-			contributor.lng = location.geometry.location.lng;
+			contributor.lat = math.round( location.geometry.location.lat, 7 );
+			contributor.lng = math.round( location.geometry.location.lng, 7 );
 		} else {
 
 			console.log( '-----------' );

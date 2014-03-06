@@ -14,6 +14,8 @@ Install the necessary modules if you don't already have them:
 
 `npm install geojson`
 
+`npm install mathjs`
+
 Start the server:
 
 `node server.js`
