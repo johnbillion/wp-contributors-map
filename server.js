@@ -1,4 +1,6 @@
 
+var blogpost = 'http://wordpress.org/news/2013/12/parker/';
+
 var server = function( port, host ) {
 
 	this.http    = require( 'http' );
@@ -38,7 +40,7 @@ server.prototype.handleRequest = function( req ) {
 	console.log( 'server.handleRequest' );
 
 	// Fetch the page with our contributors on it
-	this.fetch( 'http://wordpress.org/news/2013/08/oscar/', this.processBlog.bind( this ) );
+	this.fetch( blogpost, this.processBlog.bind( this ) );
 
 };
 
