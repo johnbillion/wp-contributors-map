@@ -22,22 +22,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0059731,
-          40.7143528
-        ]
-      },
-      "properties": {
-        "name": "Aaron Jorbin",
-        "username": "jorbin",
-        "url": "http://profiles.wordpress.org/jorbin",
-        "location": "New York City"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -107.7195032,
           38.799707
         ]
@@ -70,79 +54,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -108.0689582,
-          38.7422062
+          73.8567437,
+          18.5204303
         ]
       },
       "properties": {
-        "name": "Allan Collins",
-        "username": "collinsinternet",
-        "url": "http://profiles.wordpress.org/collinsinternet",
-        "location": "Delta,CO"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.898619,
-          35.9940329
-        ]
-      },
-      "properties": {
-        "name": "Amy Hendrix (sabreuse)",
-        "username": "sabreuse",
-        "url": "http://profiles.wordpress.org/sabreuse",
-        "location": "Durham, NC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0364641,
-          38.9072309
-        ]
-      },
-      "properties": {
-        "name": "Andrew Nacin",
-        "username": "nacin",
-        "url": "http://profiles.wordpress.org/nacin",
-        "location": "Washington, D.C."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.1139268,
-          49.261226
-        ]
-      },
-      "properties": {
-        "name": "Andrew Ozz",
-        "username": "azaozz",
-        "url": "http://profiles.wordpress.org/azaozz",
-        "location": "Vancouver, BC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.3216697,
-          42.6978388
-        ]
-      },
-      "properties": {
-        "name": "Andrey Kabakchiev",
-        "username": "aralbald",
-        "url": "http://profiles.wordpress.org/aralbald",
-        "location": "Sofia, Bulgaria"
+        "name": "Ankit Gade",
+        "username": "ankitgadertcampcom",
+        "url": "http://profiles.wordpress.org/ankitgadertcampcom",
+        "location": "Tirupati nagar, Warje Naka, Pune"
       }
     },
     {
@@ -166,15 +86,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.8567437,
-          18.5204303
+          23.3216697,
+          42.6978388
         ]
       },
       "properties": {
-        "name": "Ankit Gade",
-        "username": "ankitgadertcampcom",
-        "url": "http://profiles.wordpress.org/ankitgadertcampcom",
-        "location": "Tirupati nagar, Warje Naka, Pune"
+        "name": "Andrey Kabakchiev",
+        "username": "aralbald",
+        "url": "http://profiles.wordpress.org/aralbald",
+        "location": "Sofia, Bulgaria"
       }
     },
     {
@@ -198,22 +118,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.5528116,
-          53.4285438
-        ]
-      },
-      "properties": {
-        "name": "Arkadiusz Rzadkowolski",
-        "username": "fliespl",
-        "url": "http://profiles.wordpress.org/fliespl",
-        "location": "Szczecin"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -112.0740373,
           33.4483771
         ]
@@ -230,15 +134,63 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.8783689,
-          42.8864468
+          -4.2882005,
+          55.8721211
         ]
       },
       "properties": {
-        "name": "Ben Dunkle",
-        "username": "empireoflight",
-        "url": "http://profiles.wordpress.org/empireoflight",
-        "location": "Buffalo, NY"
+        "name": "Janneke Van Dorpe",
+        "username": "avryl",
+        "url": "http://profiles.wordpress.org/avryl",
+        "location": "University of Glasgow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1139268,
+          49.261226
+        ]
+      },
+      "properties": {
+        "name": "Andrew Ozz",
+        "username": "azaozz",
+        "url": "http://profiles.wordpress.org/azaozz",
+        "location": "Vancouver, BC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5691735,
+          33.2098407
+        ]
+      },
+      "properties": {
+        "name": "Rachel Carden",
+        "username": "bamadesigner",
+        "url": "http://profiles.wordpress.org/bamadesigner",
+        "location": "Tuscaloosa, AL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3831843,
+          43.653226
+        ]
+      },
+      "properties": {
+        "name": "Mohammad Jangda",
+        "username": "batmoo",
+        "url": "http://profiles.wordpress.org/batmoo",
+        "location": "Toronto"
       }
     },
     {
@@ -262,6 +214,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.8910474,
+          40.7607793
+        ]
+      },
+      "properties": {
+        "name": "Bryan Petty",
+        "username": "bpetty",
+        "url": "http://profiles.wordpress.org/bpetty",
+        "location": "Salt Lake City, UT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.5801293,
           47.329264
         ]
@@ -278,47 +246,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.7430608,
-          30.267153
+          -70.2553259,
+          43.661471
         ]
       },
       "properties": {
-        "name": "Brandon Kraft",
-        "username": "kraftbj",
-        "url": "http://profiles.wordpress.org/kraftbj",
-        "location": "Austin, TX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.7630885,
-          42.9097484
-        ]
-      },
-      "properties": {
-        "name": "Brian Richards",
-        "username": "rzen",
-        "url": "http://profiles.wordpress.org/rzen",
-        "location": "Grandville, MI"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.8910474,
-          40.7607793
-        ]
-      },
-      "properties": {
-        "name": "Bryan Petty",
-        "username": "bpetty",
-        "url": "http://profiles.wordpress.org/bpetty",
-        "location": "Salt Lake City, UT"
+        "name": "Michael Cain",
+        "username": "cainm",
+        "url": "http://profiles.wordpress.org/cainm",
+        "location": "Portland, Maine"
       }
     },
     {
@@ -342,22 +278,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.4454689,
-          45.253783
-        ]
-      },
-      "properties": {
-        "name": "Caroline Moore",
-        "username": "sixhours",
-        "url": "http://profiles.wordpress.org/sixhours",
-        "location": "Maine, USA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           23.3216697,
           42.6978388
         ]
@@ -367,6 +287,38 @@
         "username": "caspie",
         "url": "http://profiles.wordpress.org/caspie",
         "location": "Sofia, Bulgaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6762071,
+          45.5234515
+        ]
+      },
+      "properties": {
+        "name": "Nick Halsey",
+        "username": "celloexpressions",
+        "url": "http://profiles.wordpress.org/celloexpressions",
+        "location": "Portland, OR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4179324,
+          36.778261
+        ]
+      },
+      "properties": {
+        "name": "Michelle Langston",
+        "username": "chellycat",
+        "url": "http://profiles.wordpress.org/chellycat",
+        "location": "California"
       }
     },
     {
@@ -390,15 +342,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2577263,
-          51.7520209
+          -122.272747,
+          37.8715926
         ]
       },
       "properties": {
-        "name": "Clinton Montague",
-        "username": "iblamefish",
-        "url": "http://profiles.wordpress.org/iblamefish",
-        "location": "Oxford"
+        "name": "Kat Hagan",
+        "username": "codebykat",
+        "url": "http://profiles.wordpress.org/codebykat",
+        "location": "Berkeley, CA"
       }
     },
     {
@@ -406,15 +358,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.1409598,
-          49.9287395
+          -82.9987942,
+          39.9611755
         ]
       },
       "properties": {
-        "name": "Dan Bernardic",
-        "username": "dbernar1",
-        "url": "http://profiles.wordpress.org/dbernar1",
-        "location": "576 Cathedral Ave, Winnipeg"
+        "name": "Scott Reilly",
+        "username": "coffee2code",
+        "url": "http://profiles.wordpress.org/coffee2code",
+        "location": "Columbus, OH"
       }
     },
     {
@@ -422,15 +374,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4194155,
-          37.7749295
+          -108.0689582,
+          38.7422062
         ]
       },
       "properties": {
-        "name": "Daryl Koopersmith",
-        "username": "koop",
-        "url": "http://profiles.wordpress.org/koop",
-        "location": "San Francisco, CA"
+        "name": "Allan Collins",
+        "username": "collinsinternet",
+        "url": "http://profiles.wordpress.org/collinsinternet",
+        "location": "Delta,CO"
       }
     },
     {
@@ -454,15 +406,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.1848103,
-          32.2987573
+          -97.1409598,
+          49.9287395
         ]
       },
       "properties": {
-        "name": "Dave Whitley",
-        "username": "drw158",
-        "url": "http://profiles.wordpress.org/drw158",
-        "location": "Jackson, MS"
+        "name": "Dan Bernardic",
+        "username": "dbernar1",
+        "url": "http://profiles.wordpress.org/dbernar1",
+        "location": "576 Cathedral Ave, Winnipeg"
       }
     },
     {
@@ -486,15 +438,79 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.4616363,
-          50.4427458
+          5.291266,
+          52.132633
         ]
       },
       "properties": {
-        "name": "Dominik Schilling",
-        "username": "ocean90",
-        "url": "http://profiles.wordpress.org/ocean90",
-        "location": "neuwied, Germany"
+        "name": "Remkus de Vries",
+        "username": "defries",
+        "url": "http://profiles.wordpress.org/defries",
+        "location": "Netherlands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7845651,
+          43.0831301
+        ]
+      },
+      "properties": {
+        "name": "Sheri Bigelow (designsimply)",
+        "username": "designsimply",
+        "url": "http://profiles.wordpress.org/designsimply",
+        "location": "Saratoga Springs, NY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9847179,
+          39.737567
+        ]
+      },
+      "properties": {
+        "name": "Justin de Vesine",
+        "username": "devesine",
+        "url": "http://profiles.wordpress.org/devesine",
+        "location": "Denver, CO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      },
+      "properties": {
+        "name": "Mike Schroder",
+        "username": "dh-shredder",
+        "url": "http://profiles.wordpress.org/dh-shredder",
+        "location": "Los Angeles, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.541383,
+          43.517765
+        ]
+      },
+      "properties": {
+        "name": "Milan Dinic",
+        "username": "dimadin",
+        "url": "http://profiles.wordpress.org/dimadin",
+        "location": "Veliki Šiljegovac, Serbia"
       }
     },
     {
@@ -527,6 +543,70 @@
         "username": "drewapicture",
         "url": "http://profiles.wordpress.org/drewapicture",
         "location": "Arvada, CO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0385376,
+          51.1078852
+        ]
+      },
+      "properties": {
+        "name": "Krzysiek Drozdz",
+        "username": "drozdz",
+        "url": "http://profiles.wordpress.org/drozdz",
+        "location": "Wrocław, Poland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1848103,
+          32.2987573
+        ]
+      },
+      "properties": {
+        "name": "Dave Whitley",
+        "username": "drw158",
+        "url": "http://profiles.wordpress.org/drw158",
+        "location": "Jackson, MS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1254872,
+          51.508515
+        ]
+      },
+      "properties": {
+        "name": "Jon Cave",
+        "username": "duck_",
+        "url": "http://profiles.wordpress.org/duck_",
+        "location": "London, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8783689,
+          42.8864468
+        ]
+      },
+      "properties": {
+        "name": "Ben Dunkle",
+        "username": "empireoflight",
+        "url": "http://profiles.wordpress.org/empireoflight",
+        "location": "Buffalo, NY"
       }
     },
     {
@@ -614,6 +694,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          14.5528116,
+          53.4285438
+        ]
+      },
+      "properties": {
+        "name": "Arkadiusz Rzadkowolski",
+        "username": "fliespl",
+        "url": "http://profiles.wordpress.org/fliespl",
+        "location": "Szczecin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.129583,
           49.815273
         ]
@@ -646,38 +742,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.96328,
-          -37.814107
-        ]
-      },
-      "properties": {
-        "name": "Gary Pendergast",
-        "username": "pento",
-        "url": "http://profiles.wordpress.org/pento",
-        "location": "Melbourne, Australia"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          58.9666667,
-          53.4166667
-        ]
-      },
-      "properties": {
-        "name": "Gennady Kovshenin",
-        "username": "soulseekah",
-        "url": "http://profiles.wordpress.org/soulseekah",
-        "location": "Magnitogorsk, Russia"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -76.3055144,
           40.0378755
         ]
@@ -694,15 +758,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3831843,
-          43.653226
+          -71.0597732,
+          42.3584308
         ]
       },
       "properties": {
-        "name": "Gregory Karpinsky",
-        "username": "tivnet",
-        "url": "http://profiles.wordpress.org/tivnet",
-        "location": "Toronto, Canada"
+        "name": "Mike Burns",
+        "username": "gradyetc",
+        "url": "http://profiles.wordpress.org/gradyetc",
+        "location": "Boston, MA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.227512,
+          46.818188
+        ]
+      },
+      "properties": {
+        "name": "Ulrich",
+        "username": "grapplerulrich",
+        "url": "http://profiles.wordpress.org/grapplerulrich",
+        "location": "Switzerland"
       }
     },
     {
@@ -742,6 +822,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.0430541,
+          30.6943566
+        ]
+      },
+      "properties": {
+        "name": "Matt Thomas",
+        "username": "iammattthomas",
+        "url": "http://profiles.wordpress.org/iammattthomas",
+        "location": "Mobile, AL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.137163,
+          50.82253
+        ]
+      },
+      "properties": {
+        "name": "Takashi Irie",
+        "username": "iamtakashi",
+        "url": "http://profiles.wordpress.org/iamtakashi",
+        "location": "Brighton, UK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.3320708,
           47.6062095
         ]
@@ -751,6 +863,22 @@
         "username": "iandunn",
         "url": "http://profiles.wordpress.org/iandunn",
         "location": "Seattle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2577263,
+          51.7520209
+        ]
+      },
+      "properties": {
+        "name": "Clinton Montague",
+        "username": "iblamefish",
+        "url": "http://profiles.wordpress.org/iblamefish",
+        "location": "Oxford"
       }
     },
     {
@@ -790,22 +918,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.6412712,
-          39.0457549
-        ]
-      },
-      "properties": {
-        "name": "J.D. Grimes",
-        "username": "jdgrimes",
-        "url": "http://profiles.wordpress.org/jdgrimes",
-        "location": "Maryland, USA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.134706,
           54.601276
         ]
@@ -838,15 +950,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2882005,
-          55.8721211
+          2.1734035,
+          41.3850639
         ]
       },
       "properties": {
-        "name": "Janneke Van Dorpe",
-        "username": "avryl",
-        "url": "http://profiles.wordpress.org/avryl",
-        "location": "University of Glasgow"
+        "name": "Joan Artes",
+        "username": "jartes",
+        "url": "http://profiles.wordpress.org/jartes",
+        "location": "Barcelona"
       }
     },
     {
@@ -870,6 +982,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.6412712,
+          39.0457549
+        ]
+      },
+      "properties": {
+        "name": "J.D. Grimes",
+        "username": "jdgrimes",
+        "url": "http://profiles.wordpress.org/jdgrimes",
+        "location": "Maryland, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -81.6954088,
           41.4994954
         ]
@@ -879,6 +1007,22 @@
         "username": "jeffr0",
         "url": "http://profiles.wordpress.org/jeffr0",
         "location": "Cleveland, Ohio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.040235,
+          47.497912
+        ]
+      },
+      "properties": {
+        "name": "Jeremy Herve",
+        "username": "jeherve",
+        "url": "http://profiles.wordpress.org/jeherve",
+        "location": "Budapest, Hungary"
       }
     },
     {
@@ -918,38 +1062,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.040235,
-          47.497912
-        ]
-      },
-      "properties": {
-        "name": "Jeremy Herve",
-        "username": "jeherve",
-        "url": "http://profiles.wordpress.org/jeherve",
-        "location": "Budapest, Hungary"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.7032742,
-          40.0064958
-        ]
-      },
-      "properties": {
-        "name": "Jeremy Pry",
-        "username": "jpry",
-        "url": "http://profiles.wordpress.org/jpry",
-        "location": "Downingtown, PA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.7515992,
           35.6580681
         ]
@@ -959,22 +1071,6 @@
         "username": "jim912",
         "url": "http://profiles.wordpress.org/jim912",
         "location": "Hamamatsu-cho, Minato-ku, Tokyo, Japan"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.1734035,
-          41.3850639
-        ]
-      },
-      "properties": {
-        "name": "Joan Artes",
-        "username": "jartes",
-        "url": "http://profiles.wordpress.org/jartes",
-        "location": "Barcelona"
       }
     },
     {
@@ -1014,22 +1110,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.297355,
-          52.6308859
-        ]
-      },
-      "properties": {
-        "name": "John Blackbourn",
-        "username": "johnbillion",
-        "url": "http://profiles.wordpress.org/johnbillion",
-        "location": "Norwich, Norfolk, UK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.5204096,
           43.4642578
         ]
@@ -1039,6 +1119,22 @@
         "username": "johnafish",
         "url": "http://profiles.wordpress.org/johnafish",
         "location": "Waterloo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.297355,
+          52.6308859
+        ]
+      },
+      "properties": {
+        "name": "John Blackbourn",
+        "username": "johnbillion",
+        "url": "http://profiles.wordpress.org/johnbillion",
+        "location": "Norwich, Norfolk, UK"
       }
     },
     {
@@ -1062,22 +1158,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1254872,
-          51.508515
-        ]
-      },
-      "properties": {
-        "name": "Jon Cave",
-        "username": "duck_",
-        "url": "http://profiles.wordpress.org/duck_",
-        "location": "London, UK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.7284488,
           51.8066986
         ]
@@ -1087,6 +1167,22 @@
         "username": "joostdevalk",
         "url": "http://profiles.wordpress.org/joostdevalk",
         "location": "Don Emanuelstraat 3, Wijchen, The Netherlands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059731,
+          40.7143528
+        ]
+      },
+      "properties": {
+        "name": "Aaron Jorbin",
+        "username": "jorbin",
+        "url": "http://profiles.wordpress.org/jorbin",
+        "location": "New York City"
       }
     },
     {
@@ -1110,15 +1206,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.9847179,
-          39.737567
+          -75.7032742,
+          40.0064958
         ]
       },
       "properties": {
-        "name": "Justin de Vesine",
-        "username": "devesine",
-        "url": "http://profiles.wordpress.org/devesine",
-        "location": "Denver, CO"
+        "name": "Jeremy Pry",
+        "username": "jpry",
+        "url": "http://profiles.wordpress.org/jpry",
+        "location": "Downingtown, PA"
       }
     },
     {
@@ -1158,86 +1254,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.4307413,
-          48.118146
-        ]
-      },
-      "properties": {
-        "name": "Kailey (trepmal)",
-        "username": "trepmal",
-        "url": "http://profiles.wordpress.org/trepmal",
-        "location": "Port Angeles"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.272747,
-          37.8715926
-        ]
-      },
-      "properties": {
-        "name": "Kat Hagan",
-        "username": "codebykat",
-        "url": "http://profiles.wordpress.org/codebykat",
-        "location": "Berkeley, CA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.7833333,
-          36.1666667
-        ]
-      },
-      "properties": {
-        "name": "Kate Whitley",
-        "username": "littlethingsstudio",
-        "url": "http://profiles.wordpress.org/littlethingsstudio",
-        "location": "Nashville, TN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.1626756,
-          42.3463503
-        ]
-      },
-      "properties": {
-        "name": "Kelly Dwan",
-        "username": "ryelle",
-        "url": "http://profiles.wordpress.org/ryelle",
-        "location": "Brighton MA, USA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.5539925,
-          45.5086699
-        ]
-      },
-      "properties": {
-        "name": "Kirk Wight",
-        "username": "kwight",
-        "url": "http://profiles.wordpress.org/kwight",
-        "location": "Montreal"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           23.3216697,
           42.6978388
         ]
@@ -1247,6 +1263,22 @@
         "username": "koki4a",
         "url": "http://profiles.wordpress.org/koki4a",
         "location": "Sofia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194155,
+          37.7749295
+        ]
+      },
+      "properties": {
+        "name": "Daryl Koopersmith",
+        "username": "koop",
+        "url": "http://profiles.wordpress.org/koop",
+        "location": "San Francisco, CA"
       }
     },
     {
@@ -1270,15 +1302,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.2290053,
-          34.2746405
+          -97.7430608,
+          30.267153
         ]
       },
       "properties": {
-        "name": "Konstantin Obenland",
-        "username": "obenland",
-        "url": "http://profiles.wordpress.org/obenland",
-        "location": "Ventura, CA"
+        "name": "Brandon Kraft",
+        "username": "kraftbj",
+        "url": "http://profiles.wordpress.org/kraftbj",
+        "location": "Austin, TX"
       }
     },
     {
@@ -1286,15 +1318,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.0385376,
-          51.1078852
+          -73.5539925,
+          45.5086699
         ]
       },
       "properties": {
-        "name": "Krzysiek Drozdz",
-        "username": "drozdz",
-        "url": "http://profiles.wordpress.org/drozdz",
-        "location": "Wrocław, Poland"
+        "name": "Kirk Wight",
+        "username": "kwight",
+        "url": "http://profiles.wordpress.org/kwight",
+        "location": "Montreal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.64183,
+          41.441441
+        ]
+      },
+      "properties": {
+        "name": "Vladimir",
+        "username": "l10n",
+        "url": "http://profiles.wordpress.org/l10n",
+        "location": "Strumica, Macedonia"
       }
     },
     {
@@ -1311,6 +1359,22 @@
         "username": "lancewillett",
         "url": "http://profiles.wordpress.org/lancewillett",
         "location": "Tucson, AZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.173018,
+          49.8463704
+        ]
+      },
+      "properties": {
+        "name": "Lutz Schroer",
+        "username": "latz",
+        "url": "http://profiles.wordpress.org/latz",
+        "location": "Schornsheim, Germany"
       }
     },
     {
@@ -1350,15 +1414,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.173018,
-          49.8463704
+          -86.7833333,
+          36.1666667
         ]
       },
       "properties": {
-        "name": "Lutz Schroer",
-        "username": "latz",
-        "url": "http://profiles.wordpress.org/latz",
-        "location": "Schornsheim, Germany"
+        "name": "Kate Whitley",
+        "username": "littlethingsstudio",
+        "url": "http://profiles.wordpress.org/littlethingsstudio",
+        "location": "Nashville, TN"
       }
     },
     {
@@ -1430,15 +1494,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.0430541,
-          30.6943566
+          -1.1581086,
+          52.9547832
         ]
       },
       "properties": {
-        "name": "Matt Thomas",
-        "username": "iammattthomas",
-        "url": "http://profiles.wordpress.org/iammattthomas",
-        "location": "Mobile, AL"
+        "name": "Matthew Haines-Young",
+        "username": "mattheu",
+        "url": "http://profiles.wordpress.org/mattheu",
+        "location": "Nottingham, UK"
       }
     },
     {
@@ -1462,6 +1526,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          82.9739144,
+          25.3176452
+        ]
+      },
+      "properties": {
+        "name": "Ram Ratan Maurya",
+        "username": "mauryaratan",
+        "url": "http://profiles.wordpress.org/mauryaratan",
+        "location": "Varanasi, India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.1474244,
           43.0481221
         ]
@@ -1471,22 +1551,6 @@
         "username": "mdbitz",
         "url": "http://profiles.wordpress.org/mdbitz",
         "location": "Syracuse, NY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1581086,
-          52.9547832
-        ]
-      },
-      "properties": {
-        "name": "Matthew Haines-Young",
-        "username": "mattheu",
-        "url": "http://profiles.wordpress.org/mattheu",
-        "location": "Nottingham, UK"
       }
     },
     {
@@ -1510,38 +1574,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.2553259,
-          43.661471
-        ]
-      },
-      "properties": {
-        "name": "Michael Cain",
-        "username": "cainm",
-        "url": "http://profiles.wordpress.org/cainm",
-        "location": "Portland, Maine"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.1097335,
-          42.3736158
-        ]
-      },
-      "properties": {
-        "name": "Michael Erlewine",
-        "username": "mitchoyoshitaka",
-        "url": "http://profiles.wordpress.org/mitchoyoshitaka",
-        "location": "Cambridge, MA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.213749,
           46.227638
         ]
@@ -1551,38 +1583,6 @@
         "username": "michelwppi",
         "url": "http://profiles.wordpress.org/michelwppi",
         "location": "France, Europe"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.4179324,
-          36.778261
-        ]
-      },
-      "properties": {
-        "name": "Michelle Langston",
-        "username": "chellycat",
-        "url": "http://profiles.wordpress.org/chellycat",
-        "location": "California"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0597732,
-          42.3584308
-        ]
-      },
-      "properties": {
-        "name": "Mike Burns",
-        "username": "gradyetc",
-        "url": "http://profiles.wordpress.org/gradyetc",
-        "location": "Boston, MA"
       }
     },
     {
@@ -1622,15 +1622,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.2436849,
-          34.0522342
+          -71.1097335,
+          42.3736158
         ]
       },
       "properties": {
-        "name": "Mike Schroder",
-        "username": "dh-shredder",
-        "url": "http://profiles.wordpress.org/dh-shredder",
-        "location": "Los Angeles, CA"
+        "name": "Michael Erlewine",
+        "username": "mitchoyoshitaka",
+        "url": "http://profiles.wordpress.org/mitchoyoshitaka",
+        "location": "Cambridge, MA"
       }
     },
     {
@@ -1638,31 +1638,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.541383,
-          43.517765
+          138.252924,
+          36.204824
         ]
       },
       "properties": {
-        "name": "Milan Dinic",
-        "username": "dimadin",
-        "url": "http://profiles.wordpress.org/dimadin",
-        "location": "Veliki Šiljegovac, Serbia"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3831843,
-          43.653226
-        ]
-      },
-      "properties": {
-        "name": "Mohammad Jangda",
-        "username": "batmoo",
-        "url": "http://profiles.wordpress.org/batmoo",
-        "location": "Toronto"
+        "name": "Takayuki Miyauchi",
+        "username": "miyauchi",
+        "url": "http://profiles.wordpress.org/miyauchi",
+        "location": "Japan"
       }
     },
     {
@@ -1686,6 +1670,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.0364641,
+          38.9072309
+        ]
+      },
+      "properties": {
+        "name": "Andrew Nacin",
+        "username": "nacin",
+        "url": "http://profiles.wordpress.org/nacin",
+        "location": "Washington, D.C."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.6917064,
           35.6894875
         ]
@@ -1695,6 +1695,22 @@
         "username": "Nao",
         "url": "http://profiles.wordpress.org/Nao",
         "location": "Tokyo, Japan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.48583,
+          42.733883
+        ]
+      },
+      "properties": {
+        "name": "Nikolay Bachiyski",
+        "username": "nbachiyski",
+        "url": "http://profiles.wordpress.org/nbachiyski",
+        "location": "Bulgaria"
       }
     },
     {
@@ -1718,6 +1734,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          144.96328,
+          -37.814107
+        ]
+      },
+      "properties": {
+        "name": "Stephen Edgar",
+        "username": "netweb",
+        "url": "http://profiles.wordpress.org/netweb",
+        "location": "Melbourne, Victoria, Australia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -105.9989022,
           38.5347193
         ]
@@ -1727,38 +1759,6 @@
         "username": "nickdaugherty",
         "url": "http://profiles.wordpress.org/nickdaugherty",
         "location": "Salida, Colorado 81201"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.6762071,
-          45.5234515
-        ]
-      },
-      "properties": {
-        "name": "Nick Halsey",
-        "username": "celloexpressions",
-        "url": "http://profiles.wordpress.org/celloexpressions",
-        "location": "Portland, OR"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.48583,
-          42.733883
-        ]
-      },
-      "properties": {
-        "name": "Nikolay Bachiyski",
-        "username": "nbachiyski",
-        "url": "http://profiles.wordpress.org/nbachiyski",
-        "location": "Bulgaria"
       }
     },
     {
@@ -1798,6 +1798,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -119.2290053,
+          34.2746405
+        ]
+      },
+      "properties": {
+        "name": "Konstantin Obenland",
+        "username": "obenland",
+        "url": "http://profiles.wordpress.org/obenland",
+        "location": "Ventura, CA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4616363,
+          50.4427458
+        ]
+      },
+      "properties": {
+        "name": "Dominik Schilling",
+        "username": "ocean90",
+        "url": "http://profiles.wordpress.org/ocean90",
+        "location": "neuwied, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.6454822,
           35.8617292
         ]
@@ -1830,15 +1862,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.5267305,
-          46.8572621
+          -90.0489801,
+          35.1495343
         ]
       },
       "properties": {
-        "name": "Pascal Birchler",
-        "username": "swissspidy",
-        "url": "http://profiles.wordpress.org/swissspidy",
-        "location": "Chur, Switzerland"
+        "name": "Samuel Wood",
+        "username": "otto42",
+        "url": "http://profiles.wordpress.org/otto42",
+        "location": "Memphis, TN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9065647,
+          35.1801883
+        ]
+      },
+      "properties": {
+        "name": "Rescuework Support",
+        "username": "ounziw",
+        "url": "http://profiles.wordpress.org/ounziw",
+        "location": "Aichi, Japan"
       }
     },
     {
@@ -1862,31 +1910,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.435973,
-          55.378051
+          144.96328,
+          -37.814107
         ]
       },
       "properties": {
-        "name": "Peter Westwood",
-        "username": "westi",
-        "url": "http://profiles.wordpress.org/westi",
-        "location": "uk"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.4782797,
-          39.9237637
-        ]
-      },
-      "properties": {
-        "name": "Piet",
-        "username": "senlin",
-        "url": "http://profiles.wordpress.org/senlin",
-        "location": "Yanjinglizhongjie, Beijing 100025, China"
+        "name": "Gary Pendergast",
+        "username": "pento",
+        "url": "http://profiles.wordpress.org/pento",
+        "location": "Melbourne, Australia"
       }
     },
     {
@@ -1926,22 +1958,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.5691735,
-          33.2098407
-        ]
-      },
-      "properties": {
-        "name": "Rachel Carden",
-        "username": "bamadesigner",
-        "url": "http://profiles.wordpress.org/bamadesigner",
-        "location": "Tuscaloosa, AL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -87.6297982,
           41.8781136
         ]
@@ -1974,70 +1990,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          82.9739144,
-          25.3176452
-        ]
-      },
-      "properties": {
-        "name": "Ram Ratan Maurya",
-        "username": "mauryaratan",
-        "url": "http://profiles.wordpress.org/mauryaratan",
-        "location": "Varanasi, India"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.291266,
-          52.132633
-        ]
-      },
-      "properties": {
-        "name": "Remkus de Vries",
-        "username": "defries",
-        "url": "http://profiles.wordpress.org/defries",
-        "location": "Netherlands"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.9065647,
-          35.1801883
-        ]
-      },
-      "properties": {
-        "name": "Rescuework Support",
-        "username": "ounziw",
-        "url": "http://profiles.wordpress.org/ounziw",
-        "location": "Aichi, Japan"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.3879824,
-          33.7489954
-        ]
-      },
-      "properties": {
-        "name": "Ricky Lee Whittemore",
-        "username": "rickalee",
-        "url": "http://profiles.wordpress.org/rickalee",
-        "location": "Atlanta, GA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -123.1139268,
           49.261226
         ]
@@ -2054,15 +2006,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.6097979,
-          47.9748417
+          -84.3879824,
+          33.7489954
         ]
       },
       "properties": {
-        "name": "Robert Wetzlmayr, PHP-Programmierer",
-        "username": "wet",
-        "url": "http://profiles.wordpress.org/wet",
-        "location": "Lenzing, Österreich (Austria), Europa (Europe)"
+        "name": "Ricky Lee Whittemore",
+        "username": "rickalee",
+        "url": "http://profiles.wordpress.org/rickalee",
+        "location": "Atlanta, GA"
       }
     },
     {
@@ -2102,15 +2054,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.0489801,
-          35.1495343
+          -71.1626756,
+          42.3463503
         ]
       },
       "properties": {
-        "name": "Samuel Wood",
-        "username": "otto42",
-        "url": "http://profiles.wordpress.org/otto42",
-        "location": "Memphis, TN"
+        "name": "Kelly Dwan",
+        "username": "ryelle",
+        "url": "http://profiles.wordpress.org/ryelle",
+        "location": "Brighton MA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7630885,
+          42.9097484
+        ]
+      },
+      "properties": {
+        "name": "Brian Richards",
+        "username": "rzen",
+        "url": "http://profiles.wordpress.org/rzen",
+        "location": "Grandville, MI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.898619,
+          35.9940329
+        ]
+      },
+      "properties": {
+        "name": "Amy Hendrix (sabreuse)",
+        "username": "sabreuse",
+        "url": "http://profiles.wordpress.org/sabreuse",
+        "location": "Durham, NC"
       }
     },
     {
@@ -2127,38 +2111,6 @@
         "username": "scottbasgaard",
         "url": "http://profiles.wordpress.org/scottbasgaard",
         "location": "Kvinesdal, Norway"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.9987942,
-          39.9611755
-        ]
-      },
-      "properties": {
-        "name": "Scott Reilly",
-        "username": "coffee2code",
-        "url": "http://profiles.wordpress.org/coffee2code",
-        "location": "Columbus, OH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.9850467,
-          40.7760511
-        ]
-      },
-      "properties": {
-        "name": "Scott Taylor",
-        "username": "wonderboymusic",
-        "url": "http://profiles.wordpress.org/wonderboymusic",
-        "location": "160 West End Ave, New York, NY"
       }
     },
     {
@@ -2198,6 +2150,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          116.4782797,
+          39.9237637
+        ]
+      },
+      "properties": {
+        "name": "Piet",
+        "username": "senlin",
+        "url": "http://profiles.wordpress.org/senlin",
+        "location": "Yanjinglizhongjie, Beijing 100025, China"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           39.7,
           47.2166667
         ]
@@ -2223,22 +2191,6 @@
         "username": "shaunandrews",
         "url": "http://profiles.wordpress.org/shaunandrews",
         "location": "Vestal, NY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.7845651,
-          43.0831301
-        ]
-      },
-      "properties": {
-        "name": "Sheri Bigelow (designsimply)",
-        "username": "designsimply",
-        "url": "http://profiles.wordpress.org/designsimply",
-        "location": "Saratoga Springs, NY"
       }
     },
     {
@@ -2310,15 +2262,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.96328,
-          -37.814107
+          -69.4454689,
+          45.253783
         ]
       },
       "properties": {
-        "name": "Stephen Edgar",
-        "username": "netweb",
-        "url": "http://profiles.wordpress.org/netweb",
-        "location": "Melbourne, Victoria, Australia"
+        "name": "Caroline Moore",
+        "username": "sixhours",
+        "url": "http://profiles.wordpress.org/sixhours",
+        "location": "Maine, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.9666667,
+          53.4166667
+        ]
+      },
+      "properties": {
+        "name": "Gennady Kovshenin",
+        "username": "soulseekah",
+        "url": "http://profiles.wordpress.org/soulseekah",
+        "location": "Magnitogorsk, Russia"
       }
     },
     {
@@ -2358,15 +2326,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.137163,
-          50.82253
+          9.5267305,
+          46.8572621
         ]
       },
       "properties": {
-        "name": "Takashi Irie",
-        "username": "iamtakashi",
-        "url": "http://profiles.wordpress.org/iamtakashi",
-        "location": "Brighton, UK"
+        "name": "Pascal Birchler",
+        "username": "swissspidy",
+        "url": "http://profiles.wordpress.org/swissspidy",
+        "location": "Chur, Switzerland"
       }
     },
     {
@@ -2374,15 +2342,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.252924,
-          36.204824
+          -77.1527578,
+          39.0839973
         ]
       },
       "properties": {
-        "name": "Takayuki Miyauchi",
-        "username": "miyauchi",
-        "url": "http://profiles.wordpress.org/miyauchi",
-        "location": "Japan"
+        "name": "Tracy Rotton",
+        "username": "taupecat",
+        "url": "http://profiles.wordpress.org/taupecat",
+        "location": "Rockville, Maryland, USA"
       }
     },
     {
@@ -2438,6 +2406,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.3831843,
+          43.653226
+        ]
+      },
+      "properties": {
+        "name": "Gregory Karpinsky",
+        "username": "tivnet",
+        "url": "http://profiles.wordpress.org/tivnet",
+        "location": "Toronto, Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.628878,
           52.130807
         ]
@@ -2447,6 +2431,22 @@
         "username": "tobiasbg",
         "url": "http://profiles.wordpress.org/tobiasbg",
         "location": "Magdeburg, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6762071,
+          45.5234515
+        ]
+      },
+      "properties": {
+        "name": "Zack Tollman",
+        "username": "tollmanz",
+        "url": "http://profiles.wordpress.org/tollmanz",
+        "location": "Portland, OR"
       }
     },
     {
@@ -2470,31 +2470,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.9936818,
-          53.5510846
+          -123.4307413,
+          48.118146
         ]
       },
       "properties": {
-        "name": "Torsten Landsiedel",
-        "username": "zodiac1978",
-        "url": "http://profiles.wordpress.org/zodiac1978",
-        "location": "Hamburg, Germany"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.1527578,
-          39.0839973
-        ]
-      },
-      "properties": {
-        "name": "Tracy Rotton",
-        "username": "taupecat",
-        "url": "http://profiles.wordpress.org/taupecat",
-        "location": "Rockville, Maryland, USA"
+        "name": "Kailey (trepmal)",
+        "username": "trepmal",
+        "url": "http://profiles.wordpress.org/trepmal",
+        "location": "Port Angeles"
       }
     },
     {
@@ -2518,22 +2502,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.227512,
-          46.818188
-        ]
-      },
-      "properties": {
-        "name": "Ulrich",
-        "username": "grapplerulrich",
-        "url": "http://profiles.wordpress.org/grapplerulrich",
-        "location": "Switzerland"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.2436849,
           34.0522342
         ]
@@ -2550,15 +2518,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.64183,
-          41.441441
+          -3.435973,
+          55.378051
         ]
       },
       "properties": {
-        "name": "Vladimir",
-        "username": "l10n",
-        "url": "http://profiles.wordpress.org/l10n",
-        "location": "Strumica, Macedonia"
+        "name": "Peter Westwood",
+        "username": "westi",
+        "url": "http://profiles.wordpress.org/westi",
+        "location": "uk"
       }
     },
     {
@@ -2575,6 +2543,38 @@
         "username": "westonruter",
         "url": "http://profiles.wordpress.org/westonruter",
         "location": "Portland, OR, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6097979,
+          47.9748417
+        ]
+      },
+      "properties": {
+        "name": "Robert Wetzlmayr, PHP-Programmierer",
+        "username": "wet",
+        "url": "http://profiles.wordpress.org/wet",
+        "location": "Lenzing, Österreich (Austria), Europa (Europe)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9850467,
+          40.7760511
+        ]
+      },
+      "properties": {
+        "name": "Scott Taylor",
+        "username": "wonderboymusic",
+        "url": "http://profiles.wordpress.org/wonderboymusic",
+        "location": "160 West End Ave, New York, NY"
       }
     },
     {
@@ -2614,15 +2614,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.6762071,
-          45.5234515
+          9.9936818,
+          53.5510846
         ]
       },
       "properties": {
-        "name": "Zack Tollman",
-        "username": "tollmanz",
-        "url": "http://profiles.wordpress.org/tollmanz",
-        "location": "Portland, OR"
+        "name": "Torsten Landsiedel",
+        "username": "zodiac1978",
+        "url": "http://profiles.wordpress.org/zodiac1978",
+        "location": "Hamburg, Germany"
       }
     }
   ]

@@ -1,5 +1,7 @@
 
-var blogpost = 'http://wordpress.org/news/2013/12/parker/';
+// var blogpost = 'http://wordpress.org/news/2013/08/oscar/'; // 3.6
+// var blogpost = 'http://wordpress.org/news/2013/10/basie/'; // 3.7
+var blogpost = 'http://wordpress.org/news/2013/12/parker/'; // 3.8
 
 var server = function( port, host ) {
 
@@ -93,6 +95,14 @@ server.prototype.completedContributors = function( contributors ) {
 		if ( contributors[i].lat )
 			contributors_with_location.push( contributors[i] );
 	}
+
+	contributors_with_location.sort( function( a, b ) {
+		if ( a.username.toLowerCase() < b.username.toLowerCase() ) {
+			return -1;
+		} else {
+			return 1;
+		}
+	} );
 
 	var geojs = this.geojson.parse( contributors_with_location, {
 		Point : [ 'lat', 'lng' ]
