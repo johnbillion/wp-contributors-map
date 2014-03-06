@@ -198,6 +198,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.1139268,
+          49.261226
+        ]
+      },
+      "properties": {
+        "name": "Andrew Ozz",
+        "username": "azaozz",
+        "url": "http://profiles.wordpress.org/azaozz",
+        "location": "Vancouver, BC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.4194155,
           37.7749295
         ]
@@ -326,15 +342,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.7009416,
-          30.2984153
+          -97.7430608,
+          30.267153
         ]
       },
       "properties": {
         "name": "Brandon Kraft",
         "username": "kraftbj",
         "url": "http://profiles.wordpress.org/kraftbj",
-        "location": "RMMA, Austin, TX"
+        "location": "Austin, TX"
       }
     },
     {
@@ -694,6 +710,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.6585337,
+          40.2338438
+        ]
+      },
+      "properties": {
+        "name": "dovyp",
+        "username": "dovyp",
+        "url": "http://profiles.wordpress.org/dovyp",
+        "location": "Provo, Utah, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -105.0874842,
           39.8027644
         ]
@@ -830,7 +862,7 @@
         "name": "feedmeastraycat",
         "username": "feedmeastraycat",
         "url": "http://profiles.wordpress.org/feedmeastraycat",
-        "location": "Bor\u00e5s, Sweden"
+        "location": "Borås, Sweden"
       }
     },
     {
@@ -1430,15 +1462,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.2155403,
-          34.2631019
+          -119.2290053,
+          34.2746405
         ]
       },
       "properties": {
         "name": "Konstantin Obenland",
         "username": "obenland",
         "url": "http://profiles.wordpress.org/obenland",
-        "location": "1263 Cypress Point Ln, Ventura, CA"
+        "location": "Ventura, CA"
       }
     },
     {
@@ -1822,7 +1854,7 @@
         "name": "Milan Dinic",
         "username": "dimadin",
         "url": "http://profiles.wordpress.org/dimadin",
-        "location": "Veliki \u0160iljegovac, Serbia"
+        "location": "Veliki Šiljegovac, Serbia"
       }
     },
     {
@@ -2094,7 +2126,7 @@
         "name": "Rami Yushuvaev",
         "username": "ramiy",
         "url": "http://profiles.wordpress.org/ramiy",
-        "location": "\u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d5\u05d4, \u05d9\u05e9\u05e8\u05d0\u05dc"
+        "location": "פתח תקווה, ישראל"
       }
     },
     {
@@ -2350,7 +2382,7 @@
         "name": "sirzooro",
         "username": "sirzooro",
         "url": "http://profiles.wordpress.org/sirzooro",
-        "location": "Krak\u00f3w, Poland"
+        "location": "Kraków, Poland"
       }
     },
     {
@@ -2566,15 +2598,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.851612,
-          31.046051
+          35.18433,
+          33.027399
         ]
       },
       "properties": {
         "name": "Yoav Farhi",
         "username": "yoavf",
         "url": "http://profiles.wordpress.org/yoavf",
-        "location": "Israel"
+        "location": "Neve Ziv, Israel"
       }
     },
     {
